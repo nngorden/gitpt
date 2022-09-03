@@ -1,1 +1,2 @@
 this is the first text I am writing on this document. 
+I am dong my second text in this file now.
