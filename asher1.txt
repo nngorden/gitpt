@@ -1,2 +1,3 @@
-this is the first text I am writing on this document. 
-I am dong my second text in this file now.
+this is the first text I am writing on this file...
+I will add this other line but third add
+I am doing my second text in this file now.
