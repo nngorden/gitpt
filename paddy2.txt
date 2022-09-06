@@ -1,0 +1,2 @@
+this is coold. it produces the file and write in it if it did not exist.
+hope all works for me
